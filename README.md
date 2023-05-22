@@ -1,2 +1,2 @@
-# savings-android
+# savings android
 A savings android application
